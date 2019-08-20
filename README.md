@@ -2,6 +2,7 @@ Updated Demo for Todolist
 
 Check the versions Below
 
+```
 "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -21,8 +22,9 @@ Check the versions Below
     "webpack-dev-server": "^3.7.2"
   }
 
+```
 
-Steps:
+#Steps:
 
 git clone repo
 
