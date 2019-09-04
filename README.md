@@ -26,7 +26,7 @@ Check the versions Below
 
 # Steps:
 
-git clone repo
+git clone https://github.com/nawazsk/React-Redux-Webpack-TodoList.git
 
 cd repo
 
